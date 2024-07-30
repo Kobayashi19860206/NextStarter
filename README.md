@@ -47,7 +47,7 @@ Note: this configuration wil be easier in Capacitor 3 which [recently went into 
 
 ## API Routes
 
-API Routes can be used but some minimal configuration is required. See [this discussion](https://github.com/mlynch/nextjs-tailwind-ionic-capacitor-starter/issues/4#issuecomment-754030049) for more information.
+API Routes can be used but some minimal configuration is required. See [this discussion](https://github.com/Kobayashi19860206/NextStarter/issues/4#issuecomment-754030049) for more information.
 
 ## Caveats
 
